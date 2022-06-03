@@ -1,0 +1,55 @@
+body{
+overflow-x: hidden;
+background-color: Skyblue;
+text-align: center;
+font-family:  serif;
+}
+
+span{
+
+  font-family: 'Audiowide', cursive;
+  font-family: 'Pacifico', cursive;
+  font-family: 'Sacramento', cursive;
+}
+.first{
+
+width: 30%;
+margin: 0 auto 0 auto;
+  position: relative;
+  top: 400px;
+  right: 20%;
+font-family: 'Fresca', sans-serif;
+}
+.img {
+margin-right: 300%;
+height: 20%;
+width: 20%;
+
+}
+.img-r {
+margin-left: 60%;
+height: 20%;
+width: 20%;
+}
+.hill-img {
+  margin-right: 100%;
+height: 40%;
+width: 100%;
+}
+.myself{
+width: 20%;
+height: 20%;
+
+}
+
+.profile{
+  color: #273746;
+font-family: 'Fresca', sans-serif;
+}
+
+span{
+  font-family: 'Audiowide', cursive;
+  font-family: 'Pacifico', cursive;
+  font-family: 'Sacramento', cursive;
+
+}
